@@ -1,0 +1,10 @@
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\bin\Debug\SqlCsharapCRUD.exe.config
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\bin\Debug\SqlCsharapCRUD.exe
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\bin\Debug\SqlCsharapCRUD.pdb
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\obj\Debug\SqlCsharapCRUD.csprojAssemblyReference.cache
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\obj\Debug\SqlCsharapCRUD.Form1.resources
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\obj\Debug\SqlCsharapCRUD.Properties.Resources.resources
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\obj\Debug\SqlCsharapCRUD.csproj.GenerateResource.cache
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\obj\Debug\SqlCsharapCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\obj\Debug\SqlCsharapCRUD.exe
+C:\Users\Hassan Nasar\Desktop\SqlCsharapCRUD\SqlCsharapCRUD\obj\Debug\SqlCsharapCRUD.pdb
